@@ -45,8 +45,7 @@ Additional Analyses:
 Correlation matrix to find relationships between key variables.
 Price trends across neighborhoods.
 Impact of reviews on price and listing popularity.
-9. Statistical Analysis (if applicable)
-If you performed statistical tests (like correlation analysis), summarize your findings here.
+
 
 Key Insights & Conclusion
 Entire homes/apartments dominate the listings, but private rooms are also popular.
